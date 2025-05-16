@@ -28,3 +28,7 @@ src/plugins/iconify/icons.css
 /.vs/MFB-bank/FileContentIndex/f89d120e-750a-4d23-8bd3-a3972dcb5ec9.vsidx
 /.vs/MFB-bank/FileContentIndex
 /.vs/slnx.sqlite
+/.vs/MFB-bank/v17/DocumentLayout.backup.json
+/.vs/MFB-bank/v17/DocumentLayout.json
+*.json
+/.vs/MFB-bank/v17/.wsuo
