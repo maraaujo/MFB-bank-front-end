@@ -23,12 +23,6 @@ pnpm-debug.log*
 
 # iconify dist files
 src/plugins/iconify/icons.css
-/.vs/MFB-bank/FileContentIndex/80fa1858-26e0-4f38-ad0f-5dc1b036e648.vsidx
-/.vs/MFB-bank/FileContentIndex/fac219cf-924c-45ee-a262-8fc4acac0181.vsidx
-/.vs/MFB-bank/FileContentIndex/f89d120e-750a-4d23-8bd3-a3972dcb5ec9.vsidx
+/.vs/MFB-bank/CopilotIndices/17.13.439.2385
 /.vs/MFB-bank/FileContentIndex
-/.vs/slnx.sqlite
-/.vs/MFB-bank/v17/DocumentLayout.backup.json
-/.vs/MFB-bank/v17/DocumentLayout.json
-*.json
-/.vs/MFB-bank/v17/.wsuo
+/.vs
