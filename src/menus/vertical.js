@@ -1,14 +1,18 @@
 export default [
   { heading: 'Menus' },
   {
-    name: 'Home',
-    icon: 'mdi-view-dashboard-outline',
+    name: 'Lançamentos',
+    icon: 'mdi-bank-transfer-out',
     to: { name: 'home' },
+     children: [
+      { name: 'create', icon: 'mdi-cash-multiple', to: { name: 'create' } },
+     
+    ],
   },
-  {
-    name: 'Blank Page',
-    icon: 'mdi-file-outline',
-    to: { name: 'blank' },
-  },
-  { name: 'Documentation', icon: 'mdi-text-box-outline', href: 'https://docs.icreatorstudio.com/', target: '_blank' },
+  // {
+  //   name: 'Novo Lancamento',
+  //   icon: 'mdi-currency-usd',
+  //   to: { name: 'create' },
+  // },
+ 
 ]

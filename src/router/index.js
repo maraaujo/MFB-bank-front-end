@@ -10,7 +10,16 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: () => import('@/views/Home.vue'),
+      component: () => import('@/views/lancamentos/index.vue'),
+      meta: {
+        layout: 'content',
+      },
+      
+    },
+       {
+      path: '/create',
+      name: 'create',
+      component: () => import('@/views/lancamentos/create.vue'),
       meta: {
         layout: 'content',
       },
